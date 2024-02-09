@@ -28,7 +28,9 @@ A curated list of articles and tutorials to start with and understand generative
 | 2     | Vector Database: The Secret Behind LLM          | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://levelup.gitconnected.com/vector-database-the-secret-behind-large-language-models-capabilities-7d4f6b714d16) |
 | 3     | Approximate Nearest Neighbors                   | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://towardsdatascience.com/comprehensive-guide-to-approximate-nearest-neighbors-algorithms-8b94f057d6b6) |
 | 4     | Similarity Search                               | [![Article](https://img.shields.io/badge/Article-link-blue)](https://qdrant.tech/documentation/concepts/search) |
-| 5     | Fine tuneing the LLM Models                     | [![GitHub](https://img.shields.io/badge/GitHub-repo-green)](https://github.com/ashishpatel26/LLM-Finetuning) |
+| 5     | Overview of Retrieval Augmented Generation (RAG)| [![Article](https://img.shields.io/badge/Article-link-blue)](https://www.pinecone.io/learn/retrieval-augmented-generation/) |
+| 6     | Retrieval Augmented Generation (RAG) Examples   | [![Article](https://img.shields.io/badge/Article-link-blue)](https://vitalflux.com/retrieval-augmented-generation-rag-llm-examples/) |
+| 7     | Fine tuneing the LLM Models                     | [![GitHub](https://img.shields.io/badge/GitHub-repo-green)](https://github.com/ashishpatel26/LLM-Finetuning) |
 
 
 ### Prompt Engineering
