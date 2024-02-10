@@ -40,9 +40,10 @@ A curated list of articles and tutorials to start with and understand generative
 | 1     | ChatGPT Prompt Engineering for Developers       | [![Course](https://img.shields.io/badge/Course-link-blue)](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) |
 | 2     | Prompt Engineering guide                        | [![GitHub](https://img.shields.io/badge/GitHub-repo-green)](https://github.com/dair-ai/Prompt-Engineering-Guide) |
 | 3     | Awesome GPT Prompt Engineering                  | [![GitHub](https://img.shields.io/badge/GitHub-repo-green)](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) |
-| 4     | LangChain: Chat with Your Data                  | [![Course](https://img.shields.io/badge/Course-link-blue)](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) |
-| 5     | LangChain for LLM Application Development       | [![Course](https://img.shields.io/badge/Course-link-blue)](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) |
-| 6     | LangChain & Vector Databases                    | [![Course](https://img.shields.io/badge/Course-link-blue)](https://learn.activeloop.ai/courses/langchain?utm_source=LinkedIn&utm_medium=social&utm_campaign=student-social-share) |
+| 4     | LLM Prompt Engineering Simplified               | [![Book](https://img.shields.io/badge/Book-link-purple)](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) |
+| 5     | LangChain: Chat with Your Data                  | [![Course](https://img.shields.io/badge/Course-link-blue)](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) |
+| 6     | LangChain for LLM Application Development       | [![Course](https://img.shields.io/badge/Course-link-blue)](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) |
+| 7     | LangChain & Vector Databases                    | [![Course](https://img.shields.io/badge/Course-link-blue)](https://learn.activeloop.ai/courses/langchain?utm_source=LinkedIn&utm_medium=social&utm_campaign=student-social-share) |
 
 ***More Projects list is coming...!!!***
 
