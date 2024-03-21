@@ -5,7 +5,7 @@ A curated list of articles and tutorials to start with and understand generative
 
 ### Deep Learning
 
-| Sr No | Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                | Link                                         |
+| Sr No | Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; | Link   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;                                        |
 | ----- | ----------------------------------------------- | -------------------------------------------- |
 | 1     | Neural Networks - Basics                        | [![Youtube](https://img.shields.io/badge/Youtube-Video-red)](https://www.3blue1brown.com/topics/neural-networks) |
 | 2     | Transformers: A step-by-step breakdown          | [![Article](https://img.shields.io/badge/Article-link-blue)](https://builtin.com/artificial-intelligence/transformer-neural-network) |
@@ -14,7 +14,7 @@ A curated list of articles and tutorials to start with and understand generative
 
 ### NLP
 
-| Sr No | Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                                           | Link   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;                                        |
+| Sr No | Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; | Link   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;                                        |
 | ----- | ----------------------------------------------- | -------------------------------------------- |
 | 1     | Basics of NLP                                   | [![Article](https://img.shields.io/badge/Article-link-blue)](https://www.analyticsvidhya.com/blog/2022/01/nlp-tutorials-part-i-from-basics-to-advance) |
 | 2     | Text Embeddings                                 | [![Article](https://img.shields.io/badge/Article-link-blue)](https://docs.cohere.com/docs/text-embeddings) |
@@ -22,7 +22,7 @@ A curated list of articles and tutorials to start with and understand generative
 
 ### Gen AI & Large Language Models (LLM)
 
-| Sr No | Name                                            | Link &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;                                         |
+| Sr No | Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; | Link   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;                                        |
 | ----- | ----------------------------------------------- | -------------------------------------------- |
 | 1     | How GPT3 works? - A visual animation            | [![Article](https://img.shields.io/badge/Article-link-blue)](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) |
 | 2     | Vector Database: The Secret Behind LLM          | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://levelup.gitconnected.com/vector-database-the-secret-behind-large-language-models-capabilities-7d4f6b714d16) |
@@ -35,15 +35,26 @@ A curated list of articles and tutorials to start with and understand generative
 
 ### Prompt Engineering
 
-| Sr No | Name  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                                           | Link &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;                                         |
+| Sr No | Name                                            | Link &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;                                         |
 | ----- | ----------------------------------------------- | -------------------------------------------- |
-| 1     | ChatGPT Prompt Engineering for Developers       | [![Course](https://img.shields.io/badge/Course-link-blue)](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) |
-| 2     | Prompt Engineering guide                        | [![GitHub](https://img.shields.io/badge/GitHub-repo-green)](https://github.com/dair-ai/Prompt-Engineering-Guide) |
-| 3     | Awesome GPT Prompt Engineering                  | [![GitHub](https://img.shields.io/badge/GitHub-repo-green)](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) |
-| 4     | LLM Prompt Engineering Simplified               | [![Book](https://img.shields.io/badge/Book-link-purple)](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) |
-| 5     | LangChain: Chat with Your Data                  | [![Course](https://img.shields.io/badge/Course-link-blue)](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) |
-| 6     | LangChain for LLM Application Development       | [![Course](https://img.shields.io/badge/Course-link-blue)](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) |
-| 7     | LangChain & Vector Databases                    | [![Course](https://img.shields.io/badge/Course-link-blue)](https://learn.activeloop.ai/courses/langchain?utm_source=LinkedIn&utm_medium=social&utm_campaign=student-social-share) |
+| 1     | Prompt Engineering for ChatGPT                  | [![Course](https://img.shields.io/badge/Course-link-blue)](https://www.coursera.org/learn/prompt-engineering) |
+| 2     | Prompt Engineering Best Practices               | [![Article](https://img.shields.io/badge/Article-link-blue)](https://www.kaggle.com/code/youssef19/prompt-engineering-best-practices) |
+| 3     | ChatGPT Prompt Engineering for Developers       | [![Course](https://img.shields.io/badge/Course-link-blue)](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) |
+| 4     | Prompt Engineering guide                        | [![GitHub](https://img.shields.io/badge/GitHub-repo-green)](https://github.com/dair-ai/Prompt-Engineering-Guide) |
+| 5     | Awesome GPT Prompt Engineering                  | [![GitHub](https://img.shields.io/badge/GitHub-repo-green)](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) |
+| 6     | LLM Prompt Engineering Simplified               | [![Book](https://img.shields.io/badge/Book-link-purple)](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) |
+| 7     | ChatGPT 101: Supercharge Your Work & Life (750+ Prompts inc)  | [![Course](https://img.shields.io/badge/Course-link-blue)](https://www.udemy.com/course/chatgpt-101-supercharge-your-work-life-500-prompts-inc/) |
+| 8     | Prompt Engineering+: Master Speaking To AI               | [![Book](https://img.shields.io/badge/Book-link-purple)](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) |
+
+
+### LLM Framework - LangChain
+
+| Sr No | Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; | Link   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;                                        |
+| ----- | ----------------------------------------------- | -------------------------------------------- |
+| 1     | LangChain with Python Bootcamp                  | [![Course](https://img.shields.io/badge/Course-link-blue)](https://www.udemy.com/course/langchain-with-python-bootcamp/) |
+| 2     | LangChain: Chat with Your Data                  | [![Course](https://img.shields.io/badge/Course-link-blue)](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) |
+| 3     | LangChain for LLM Application Development       | [![Course](https://img.shields.io/badge/Course-link-blue)](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) |
+| 4     | LangChain & Vector Databases                    | [![Course](https://img.shields.io/badge/Course-link-blue)](https://learn.activeloop.ai/courses/langchain?utm_source=LinkedIn&utm_medium=social&utm_campaign=student-social-share) |
 
 ***More Projects list is coming...!!!***
 
