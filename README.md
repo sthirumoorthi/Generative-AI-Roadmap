@@ -8,10 +8,12 @@ A curated list of articles and tutorials to start with and understand generative
 | Sr No | Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; | Link   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;                                        |
 | ----- | ----------------------------------------------- | -------------------------------------------- |
 | 1     | Neural Networks - Basics                        | [![Youtube](https://img.shields.io/badge/Youtube-Video-red)](https://www.3blue1brown.com/topics/neural-networks) |
-| 2     | Transformers: A step-by-step breakdown          | [![Article](https://img.shields.io/badge/Article-link-blue)](https://builtin.com/artificial-intelligence/transformer-neural-network) |
-| 3     | The Illustrated Transformer                     | [![Article](https://img.shields.io/badge/Article-link-blue)](https://jalammar.github.io/illustrated-transformer) |
-| 4     | Illustrated Guide to Transformers               | [![Article](https://img.shields.io/badge/Article-link-blue)](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0) |
-| 5     | Introduction to AutoEncoders (Optional)         | [![Blog](https://img.shields.io/badge/Blog-link-blue)](https://pyimagesearch.com/2023/07/10/introduction-to-autoencoders/) |
+| 2     | Understanding LSTM Networks(Optional)           | [![Article](https://img.shields.io/badge/Article-link-blue)](https://colah.github.io/posts/2015-08-Understanding-LSTMs) |
+| 3     | The fall of RNN / LSTM                          | [![Article](https://img.shields.io/badge/Article-link-blue)](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0) |
+| 4     | Transformers: A step-by-step breakdown          | [![Article](https://img.shields.io/badge/Article-link-blue)](https://builtin.com/artificial-intelligence/transformer-neural-network) |
+| 5     | The Illustrated Transformer                     | [![Article](https://img.shields.io/badge/Article-link-blue)](https://jalammar.github.io/illustrated-transformer) |
+| 6     | Illustrated Guide to Transformers               | [![Article](https://img.shields.io/badge/Article-link-blue)](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0) |
+| 7     | Introduction to AutoEncoders (Optional)         | [![Blog](https://img.shields.io/badge/Blog-link-blue)](https://pyimagesearch.com/2023/07/10/introduction-to-autoencoders/) |
 
 ### NLP
 
