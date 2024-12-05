@@ -1,4 +1,4 @@
-Certainly! Here are some scenario-based questions for interviews on Generative AI use cases:
+Scenario-based questions:
 
 1. **Question:** Take an application of your choice. I want you design a dashboard where the users can see only their requests. Write SQL query to display the data in dashboard
 
